@@ -1,0 +1,1 @@
+SELECT mna.cxdf,kntvnj.s,wmcwcb.njawexa,ozjndmpedj.rmneur,lybawqu.aonoyjxby,b.sleaugpa,qzqadrlq.xoqayrxn,tr.cfjm FROM jkgxl oo,ooyobxzfda usaoz,e kpvcgu,lsmehgd gzwqqdj,cxti lfi,lwtnurkb s,bribelvy mjomqlo,h zfbkc,zonbf fjztgdv,shx sekbyay WHERE (6743 >= 4015852116) AND 4 != 2277002 AND (07 != 52990) AND ((8524 != 77))

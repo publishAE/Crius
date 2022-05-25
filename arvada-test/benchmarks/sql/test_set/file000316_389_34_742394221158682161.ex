@@ -1,0 +1,1 @@
+SELECT spvhetwl.nklkbqfma,uiyhoab.t,luylrjxka.mlieja,h.ralt,r.tys,fo.qwaomjp,clk.wd,jtau.nvl FROM magyai dkpec,vzqwy vtidwc,kmn kn,upyui sfewwkdxjb,xjxojhfh rgo WHERE "r" = 6 AND ((8 != 80909476 AND (703 != 89332859) AND 2941 != 98602290))

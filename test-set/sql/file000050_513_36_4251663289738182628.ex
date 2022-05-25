@@ -1,0 +1,1 @@
+SELECT bylnwpkhat.ap,huj.cyrgkewpk,ymqjx.pvxht,qvcsrkmk.eavxqnn,bc.gwsve,yejy.kaqvpcpiqw FROM c gwk,gqfant junqs,vdkfewpga mkr,mwhcb wsrrsmsda,b uhiv,wlmbrqahbd fmuxbt,qwreefmkp ghmfwef,boqsx pehojyrm,dr ktjpt WHERE zwu.womo >= gyzlbzm.oj AND (2857 != 939929672) AND ((04477 != 210228293) AND 5258981 != 923780 AND 76255 != 15325213)

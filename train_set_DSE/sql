@@ -1,0 +1,1 @@
+SELECT ee.name , dd.name FROM eth e , dog d WHERE (e.age > 10) AND (e.age > 10 AND e.age > 10 AND (e.age > 10 AND e.age > 10))

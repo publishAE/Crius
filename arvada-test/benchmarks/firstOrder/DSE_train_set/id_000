@@ -1,0 +1,1 @@
+forall Z . exists Z . !exists Z . ( forall Z. forall Z. q(c) q(c) -> exists Z. !exists Z. p(Z, q(c)) q(c))

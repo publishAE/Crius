@@ -1,0 +1,1 @@
+(j ->forall K.exists FXtA.t3eu47i(A)   ) 

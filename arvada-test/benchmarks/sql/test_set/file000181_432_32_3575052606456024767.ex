@@ -1,0 +1,1 @@
+SELECT uwsupfmfne.dlycqr,aslgwpwqej.abfwxbu,wkjhc.swqjug,sy.zumqxqtx,rbktnu.hperk,qvmgkeledv.camkiqjx,xdkyyhhz.wtzhr FROM iaspse hjoym,pn yuxda,ajppfoh jildueu,ub sk,txtdfskq liymuxdzwi,rnj vkyzc,ysykgmo epmjwwj WHERE (7691905121 <= 26 AND ((35857524 != 280157) AND (412 != 88115)))

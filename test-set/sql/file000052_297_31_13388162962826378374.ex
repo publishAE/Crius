@@ -1,0 +1,1 @@
+SELECT dtbr.aptbxhs,gbktdid.nkxn FROM apxxnqi y,rqewliufwy ytxydhz,wua dfd,sc q,xalgzzgsxk uhykaj,bvhqth jwglpq WHERE (06539 <> 566) AND (46607 != 0642) AND (164396 != 640 AND 1995833 != 1)

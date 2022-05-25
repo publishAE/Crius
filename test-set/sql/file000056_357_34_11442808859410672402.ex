@@ -1,0 +1,1 @@
+SELECT hxuyycfo.uwape,h.vcsm,yqnp.mnzqxtdlkp,bwipp.ocifnxgbqc,ahnqvwaa.itrxtxfir FROM r rxkzcw,xmvycxnwg txixbmhm,hvyyihid fiprm,ibo v,lnggtv jttngxpb WHERE (4130001 <> 670) AND (2591 != 337934 AND ((3 != 427) AND 29952 != 9059))

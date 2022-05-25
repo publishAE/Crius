@@ -1,0 +1,1 @@
+SELECT pqezxtjvj.qiyvpgj,tgmurdfaj.ipisdnr,a.rfcblwn,anirmoodka.xnymbnrah,da.jijv FROM mvacfqw wtj WHERE (8 > 0800) AND 707415 <> 9

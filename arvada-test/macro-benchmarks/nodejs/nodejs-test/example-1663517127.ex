@@ -1,0 +1,1 @@
+throw (delete (("@^@")[((false) ? (new (q_0)((undefined),(e_1))) : (q_0))]))

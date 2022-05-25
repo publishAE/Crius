@@ -1,0 +1,1 @@
+throw (new ((undefined).a_0))

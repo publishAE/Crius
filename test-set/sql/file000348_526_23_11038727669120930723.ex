@@ -1,0 +1,1 @@
+SELECT yvzri.pkw,gjcvlcpa.yp,zy.etmqcc,qfcqjsmxmz.rbsrswqc,ahkgqc.ulbnhwdug,iixra.curigyecug,uk.rrlbcnrbm,cidaclhebo.qjnkoj,qebmd.ozvhmxhufx,ffvx.qv FROM hwnow ditb,wardvcvcru g,agjmeqmc y,rbystnn j,g ukmuets,bkrw oqdsv,yhwnqh k,zmsjawld qqntaeo,uz zz,zbdnd wcupz,eo pn WHERE (91 <> 737995) AND (9 != 443375844) AND 172009 < 65

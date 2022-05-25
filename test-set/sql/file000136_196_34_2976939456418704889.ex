@@ -1,0 +1,1 @@
+SELECT dhgt.syglcmy FROM uapzafwzmd bipseajqs WHERE (729 > 59) AND (923 != 34) AND (((15100021 != 290929) AND 4477263 != 1972))

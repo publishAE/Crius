@@ -1,0 +1,1 @@
+SELECT bxa.dtoljbj,ubcz.sxnzvyphxe,nhgk.vn,rcjwgelqa.hdvkwtibn,ajipse.ua,vo.hlpim,nemxhlwzf.ojzkgorz,hpbmrwry.zrukrc,gvqntayj.fpbdggon FROM bw q WHERE (5896218 >= 77585) AND 29354319 != 945550138 AND (((36254 != 5) AND 210330 != 283991946))

@@ -1,0 +1,1 @@
+{"firstName": "John",     "lastName": "Smith",    'Attrs.Attr': {'$all': [123456789, {'Name':'srv'} ] , "suspended": false } ,"age": 123456789   }

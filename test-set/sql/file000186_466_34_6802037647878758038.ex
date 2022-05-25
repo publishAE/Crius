@@ -1,0 +1,1 @@
+SELECT na.ggnuyikt,rvtpdcoiqp.wca,sqieuz.kahv,mcrfrua.js FROM yvmr dljjmai,falnqzctej goz,pixio gwuyciysd,srsxighzxn bc,in adgddusny,r btdz,r dzdii,kuedfz qqdctw,otbnaun plc,aobnrz hbxpkyd,eefslkf p WHERE ((7179982 != 332) AND 1441764398 != 86472724 AND ((04396333 != 78991) AND 643489776 != 0073))

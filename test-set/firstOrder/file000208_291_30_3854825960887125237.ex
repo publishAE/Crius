@@ -1,0 +1,1 @@
+((exists B2O.v5745a_(W1M_7,S,K,X,F,S,T,S,B,K)  &!forall Ln75__6S_o.q   ) ->forall GeSs_w2Oan.(forall HS_a2GjV2.k  &u )  ) 

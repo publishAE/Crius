@@ -1,0 +1,1 @@
+SELECT nsszrdzckb.rjmlwktdd,jdhv.jankpgqhx,ui.kzniycidu,xq.bjirl,ywpupwhbtj.d FROM kvlhtf af,idmfffnk gefzx WHERE (76688 != 43 AND 06868200 < 232)

@@ -1,0 +1,1 @@
+SELECT pnqilxxvz.oawhn,vdxduz.mulc,i.nwngna,nazvxsopd.joiek FROM licmscmyix vr WHERE "jmulzqmoi" > 861657562 AND (899140158 != 853900) AND (496 != 4199589 AND 479 != 919725 AND 8246 != 95228965)

@@ -1,0 +1,1 @@
+SELECT s.etk,ceulty.isobg,mabgqkt.zxedvf,wa.pr,ql.jjgmro,v.vqlrrnej FROM em t,n exstpjc,npw wbenrovsmo WHERE (9812631307 >= 325214) AND (15 = 999109)

@@ -1,0 +1,1 @@
+throw (delete (new (((v_0) ? (true) : (v_0)).v_0)((undefined),(undefined),(i_1),((new (this)((true))).i_1),(i_1))))

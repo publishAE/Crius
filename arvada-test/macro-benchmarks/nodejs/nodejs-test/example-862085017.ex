@@ -1,0 +1,1 @@
+throw (typeof (! (s_0)))

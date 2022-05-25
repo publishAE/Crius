@@ -1,0 +1,1 @@
+SELECT qknibw.ylgxgyyi,djgcglpo.ppknwi FROM izbgw hlt,czolluial iz,rtdu vyq,hbn hiuc,teurrfogfx bvq WHERE (0604955115 >= 4 AND 7899959 != 3143387 AND 622701678 != 230445058 AND 014385 != 3 AND 9 != 911521)

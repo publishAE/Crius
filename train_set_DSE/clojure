@@ -1,0 +1,35 @@
+( [ #^{ #'a#.a1/a2 0r1l/4r3l 2.5e3 3r5n nil "ab" true \tab ::a1 false } #'.-+4 ] @ab #"ab")
+
+( [ #^{ #'S>.i$/c' 6r8L/8r8L 8.1e0 4r0L nil "T@" true \tab ::K* false } #'.-&# ] @mf #"@\")
+
+( [ #^{ #'U7.l5/g8 9r4L/9r5L 5.2e1 2r9L nil "@@" true \tab ::F6 false } #'.-$% ] @vy #"@2")
+
+( [ #^{ #'B%.L</R> 5r0L/4r9L 1.7e1 3r9L nil "@@" true \tab ::l$ false } #'.-+& ] @zN #"@?")
+
+( [ #^{ #'h7.j6/f9 4r3L/8r1L 2.6e7 7r4L nil "@@" true \tab ::Q< false } #'.-+% ] @Na #"@"$)
+
+( [ #^{ #'T5.L6/m0 9r4L/4r8L 9.1e3 7r3L nil "@@" true \tab ::c$ false } #'.-!3 ] @OB #"@");
+
+( [ #^{ #'e=.Z%/v2 5r1L/2r0L 1.7e8 8r6L nil "@@" true \tab ::E1 false } #'.-<8 ] @CN #"@").
+
+( [ #^{ #'r#.u0/N# 1r2L/0r5L 2.3e4 2r5L nil "@@" true \tab ::S8 false } #'.->4 ] @ha #"@")2
+
+( [ #^{ #'j'.J*/F' 4r0L/8r6L 7.2e8 5r4L nil "@^" true \tab ::X1 false } #'.-$9 ] @Hm #"@")<
+
+( [ #^{ #'C4.p2/w! 6r7L/6r1L 3.4e9 0r2L nil "@@" true \tab ::D' false } #'.-$% ] @MJ #"@")?
+
+( [ #^{ #'C7.V+/b> 0r3L/9r2L 2.5e6 5r0L nil "@@" true \tab ::T0 false } #'.--% ] @er #"@")N
+
+( [ #^{ #'V'.Z9/A0 3r0L/1r0L 6.0e2 8r7L nil "@@" true \tab ::U% false } #'.-*# ] @Oj #"@")t
+
+( [ #^{ #'w2.a7/T0 1r4L/6r3L 5.6e1 7r3L nil "@@" true \tab ::e! false } #'.-<3 ] @wv #"@")f
+
+( [ #^{ #'x'.X>/n8 4r7L/0r2L 1.2e3 2r5L nil "@@" true \tab ::p$ false } #'.-=! ] @Ob #"@")_
+
+( [ #^{ #'H%.C3/i+ 5r1L/7r4L 5.5e9 7r7L nil "@@" true \tab ::e$ false } #'.-*& ] @BG #"@")\
+
+( [ #^{ #'O8.k'/v# 8r0L/5r4L 4.0e7 9r0L nil "@T" true \tab ::F- false } #'.-!# ] @yE #"@")n
+
+( [ #^{ #'j<.X+/J' 6r2L/9r7L 4.9e5 0r4L nil "@@" true \tab ::c' false } #'.-!1 ] @lq #"@")$
+
+( [ #^{ #'W=.s'/a# 0r1L/8r2L 4.0e0 7r8L nil "@@" true \tab ::H+ false } #'.-%< ] @WY #"@"),

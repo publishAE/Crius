@@ -1,0 +1,1 @@
+SELECT tp.s,cqkp.l,orv.jfx,yit.qpqsblr,y.uqipv FROM cbinl qupsl WHERE ((0496967 != 983) AND 702995 != 35 AND ((33864667 != 97747793)))

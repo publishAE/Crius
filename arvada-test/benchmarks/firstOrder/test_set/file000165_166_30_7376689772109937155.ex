@@ -1,0 +1,1 @@
+(!(!shvOi3_  ->forall L4__t_.h  )  |forall LTv0TXP_.(!x  ->g_o3G )  ) 

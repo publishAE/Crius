@@ -1,0 +1,1 @@
+SELECT avtzyyi.rkumwmyc,nhar.io,y.c,qzmhpdo.tnuvacnfp,nzk.gqvraksgfp,fkcdud.hlkngm FROM bb a,i lyr,jelyn um,sd axhspif,oejdgsvox itxe,qhk vddy WHERE "dyaxapvo" <= 2924 AND (00850589 != xh.benjoeea)

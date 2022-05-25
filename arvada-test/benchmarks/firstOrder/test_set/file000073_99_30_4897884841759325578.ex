@@ -1,0 +1,1 @@
+!(!forall C.i   &(forall EK8.t  ->vW ) )  

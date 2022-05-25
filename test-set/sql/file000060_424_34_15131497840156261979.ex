@@ -1,0 +1,1 @@
+SELECT uz.xqufzerynx,enxyjhavw.ptt,pcc.qq,tmzaqb.dn,nczvgsfst.bfap,eywllbktrv.gjivxdcy,ituiv.egrujso,ofa.ubfrry,ltkdrs.oaqbmyjh,pcmc.kinl,g.byvj FROM dkcwser jaoqugxso,jto pou,gifep nz WHERE ((16 != 655790667) AND 9 != 790 AND 11805 != 38 AND (183689795 != 972888662))

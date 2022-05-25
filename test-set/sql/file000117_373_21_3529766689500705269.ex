@@ -1,0 +1,1 @@
+SELECT txjzkewog.rgvjphsvrt,xwzj.odihbngf,njc.nrtm,axljyhblwd.mdnlzeo,gh.vhxokg FROM sg kowxtkdxk,knpq wjnf,bdvalbxctp gyernf,tbkziwhm geglz,hl jihy,bhjl jkur,cqrnzuwz rq,oize s,vmqbe scsjy WHERE (20188 > 6844588760) AND (69724 > 91616227)

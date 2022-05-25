@@ -1,0 +1,1 @@
+ function  __Q (){ if ( $ ){ if ( $ ) return ;} else { $ ;}}

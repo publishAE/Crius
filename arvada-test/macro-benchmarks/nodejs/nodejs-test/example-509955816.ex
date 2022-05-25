@@ -1,0 +1,1 @@
+throw (! (delete (new (a_0))))

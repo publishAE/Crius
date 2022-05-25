@@ -1,0 +1,1 @@
+SELECT avuvg.jfs,dwzwho.evlk,worhifnukf.tskb,fdjcvr.yod,qfjhm.tlc FROM xxcdp kkovp WHERE (305307 != 87892) AND 306909 != 4150891 AND (66114990 != 8) AND (88 != 63678) AND (8 != 124230)

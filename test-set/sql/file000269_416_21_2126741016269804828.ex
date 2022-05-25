@@ -1,0 +1,1 @@
+SELECT aj.nfru,rinn.pszobl,gkaas.otgvsfqyg,r.vsgmyl,zzteg.m,ovo.umf FROM gmqldomazc hxhawyo,zfshxk lcqwga,akvok u,jugdcke u,gw tojy,owvrqievt mefkns,zwzpu jraddxscv,wytcwr wmrt,q gldwgvolns,dzsywlio ogkhgor,v hbqj WHERE ((7693 != 542740098) AND 81233 < 94480)

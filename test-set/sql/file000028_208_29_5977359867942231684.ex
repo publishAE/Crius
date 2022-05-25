@@ -1,0 +1,1 @@
+SELECT arvfry.lkddet,deorjdy.icvrpxkcr FROM rjxrtm llppatp,quj gbwhdoqyut WHERE (6586217557 > 18857 AND (221 != 35050) AND (557557 != 32297))

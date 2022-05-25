@@ -1,0 +1,1 @@
+SELECT phcxiyapy.lzeppunyoi,dgp.j,bantelumoz.uvopy,sy.l FROM njvzqzt sjvurn,als ewsdiq,jvbz nueybo,uouvw hbvwew,cldl x,suqjtih dzma,apbveryjhq npgz,hpx jj,jhz ytccpeypq,kjlxowtq smxjafd,knqgjkk mbrpr WHERE (5924196 <> 321828009) AND 5140390609 >= 09

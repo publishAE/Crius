@@ -1,0 +1,1 @@
+SELECT du.tcxoupa,bw.snhbi,lqv.jkbtbhf,gdlbu.zuo,vvegrep.mtasejgpc,ge.kewcvpuvh,oeqazpp.k,mheusmv.fo,cjtmjik.d,nh.ydkrg FROM vllonpumf yucjktmuwg,ocuuhedd zpafdevpv,vaeobkc srgjdjjx,izvcb qmi,yisyjryhy cuf,szppb tujpnrzk,gshdzbu jycxspwu,aupwljorkn kkwcybwrzx,xqieh magqar WHERE 1993 > z.mbztwiknc AND (((43835067 != 00 AND 26695 != 2899)))

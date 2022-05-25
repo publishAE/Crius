@@ -1,0 +1,1 @@
+SELECT uhccxncgqt.ews,swlxihdsmr.yxypaf FROM ktmqz nckvzf,ex fjraps,vo hqpegu,c uvwawnfodb,jkzvwon qvpb WHERE (1218355 > 3058) AND (((8927188 != 07) AND (61260944 != 967) AND 763419 != 99855))

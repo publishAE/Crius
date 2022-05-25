@@ -1,0 +1,1 @@
+throw (typeof (new (x_0)((x_0))))

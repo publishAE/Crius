@@ -1,0 +1,1 @@
+ function  va (){ if ( $ ) return ; else  while ( $ ) if ( $ ) $ ;}

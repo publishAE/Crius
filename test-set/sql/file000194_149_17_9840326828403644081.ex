@@ -1,0 +1,1 @@
+SELECT ayn.zydoivx FROM svm yvdw,tjzaozv y,jmtumqdbc xmgqi,coqtpysfk q WHERE ("foiadepxc" >= 60689812)

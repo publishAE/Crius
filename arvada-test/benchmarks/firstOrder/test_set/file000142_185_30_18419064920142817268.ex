@@ -1,0 +1,1 @@
+(!forall SS6_eSz___n.forall L__.t8y_PW    ->(exists L06Ybn_I_.a(M)  ->exists Qj_0w.t2P_  ) ) 

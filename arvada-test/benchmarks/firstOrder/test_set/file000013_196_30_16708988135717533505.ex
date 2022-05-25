@@ -1,0 +1,1 @@
+((((y6t2 ->p ) |!n  ) ->forall UNY1r6.forall S_fxo_Om.o   ) ->!(!t  |h )  ) 

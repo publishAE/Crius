@@ -1,0 +1,1 @@
+throw ((c_0) ? (i_1) : (new ((h_2, t_3, m_4, x_5) => ((m_6) |= (undefined)))))

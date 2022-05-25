@@ -1,0 +1,1 @@
+throw (((undefined).a_0) &= (a_0))

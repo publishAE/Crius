@@ -1,0 +1,1 @@
+SELECT tejfi.oayeions FROM owcqi ozmp,udkvx oyq,gdstwggq buze,a vujypho,ahamklgpgn eaiozskqh,hhi hsdwcd,xxt ab,gywps id WHERE ((0390550 != 406116550) AND (600 != 955361028) AND 9 != 552733 AND (909210544 != 3939) AND 1973924847 != 38)

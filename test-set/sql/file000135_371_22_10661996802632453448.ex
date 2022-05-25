@@ -1,0 +1,1 @@
+SELECT serld.bfurrubtn,hrssl.wpggrdvwq,fyhbdjzox.tz,u.xrmutmtmto,iiwca.clwre FROM o fpuvxlxxq,haqf ftlgzbmcrw,naxlj hg,ztiwasno zpg,xpqojkv pzjceie,itga brslwex,ygysbpzj yloyvfal,qpf xfl,fucbv kp WHERE (186626349 <> 66 AND "timmjgocgq" != 84)

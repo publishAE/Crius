@@ -1,0 +1,1 @@
+(forall CeC_6EnyLy.(nz_ ->exists W_8.p  )  |forall E_6q_.k  ) 

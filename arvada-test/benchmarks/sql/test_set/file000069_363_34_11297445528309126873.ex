@@ -1,0 +1,1 @@
+SELECT qyfamgk.ygh,hxcmykrptu.wcojqc,scpcjocl.vgvljv,ohgpd.iwtjfqos FROM fbmqvfa bark,oqybekovx x,wingixvysb ivdlyjsr,dutrq hgcmpcl,oppazofyj dfhgdbbd WHERE ((38814735 != 3) AND (37308757 != 68890) AND 49 != 96415 AND (57632636 != 6518613185))

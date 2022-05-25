@@ -1,0 +1,1 @@
+SELECT rxuwyiyp.eix,u.lvdbtt,h.q,co.eexj,ivoldgij.n,w.upo FROM opcgmfmzu ie,mekvc kqlmkoc,yi mqoio,rlclpptnui tpzr,max xzhcdjcu,dfskbahq cq,hhipm pe,rawxifgtwt cnjztne,h wrbruji,wr c WHERE (012007490 <> 54244) AND (75359 <> 2090974)

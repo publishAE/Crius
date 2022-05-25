@@ -1,0 +1,1 @@
+SELECT tai.mybhin,vtgw.hqrnbpnlww,nlydfv.brpezmk,wr.lgjj,hvg.lazysgtj,grybgdobd.xdangk FROM ppm vn,mozbcw kqfrieem,malhabofo bgvrjt,y trvqif,pisfrcutru qevtp,ypwsfcg ttp,hvpvptpit xj,phemmczkh xphi,tvdzpin uum,qteglfujj hgcmra,vc qotysud WHERE ((9 != 750438) AND xsygiin.a != 493134)

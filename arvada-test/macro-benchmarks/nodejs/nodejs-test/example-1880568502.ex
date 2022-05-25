@@ -1,0 +1,1 @@
+throw (~ (((undefined)(((870) * (this)),(this),(delete (undefined)))) != ({f_0: ((o_1)((o_2),(o_1),(false)))})))

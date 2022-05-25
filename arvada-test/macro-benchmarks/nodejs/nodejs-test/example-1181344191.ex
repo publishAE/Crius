@@ -1,0 +1,1 @@
+throw (new (((this) ? (w_0) : ((undefined) ? (w_0) : (h_1)))((this),(h_1),(delete (undefined)))))

@@ -1,0 +1,1 @@
+((forall M__3L_.!xe41   ->exists A.forall O_R2.q   ) &!forall W69O4veA_.!g    ) 

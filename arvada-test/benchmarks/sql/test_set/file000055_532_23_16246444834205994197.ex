@@ -1,0 +1,1 @@
+SELECT rfmupama.abttknsyzu,kcdmfhrg.iurp,sxthq.ahod,rjgocanqi.b,j.ttcjnlhtq,peklv.ebxwbctyr,itzvgcndkr.odsxq,xxkqqj.eer,h.nqobyy,qvgygiq.w,epy.cb FROM ljm uusealcpos,dawcgcmcw fe,jzpxzdnvun kpgiqfn,kepl vagaov,gzdgrp ydearp,tcnwjvfhwm mfgelazzk,tl riapkwrtf,owtpj hglwjmiyp WHERE "yecyywir" <= 8779239695 AND (07092988 != 501333878) AND 99 = 1673317214

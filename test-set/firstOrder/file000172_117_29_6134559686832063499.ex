@@ -1,0 +1,1 @@
+(forall K6.exists W.!tE5_mC    |forall TO9_q_o4_O.!o__   ) 

@@ -1,0 +1,1 @@
+throw ((this).g_0)

@@ -1,0 +1,1 @@
+SELECT stoejm.ifdiifkoe,lgzxdstlyc.sicxazezw FROM dqetred bzrpnm,fsskt rtsxwz,toimyd iytqkddbvd,kncz huqeqcjiw,nlmgegi yq,jzuz noxjg,y dmfbanke,ini pgujmzyof,qhmn jtl WHERE "jgwhi" <> 44640 AND ((5 != 9061665428) AND (01855670 != 2045) AND 234 != 14 AND 273 != 6172728)

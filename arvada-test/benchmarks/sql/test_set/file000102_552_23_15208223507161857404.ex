@@ -1,0 +1,1 @@
+SELECT ljw.epnef,jwvnjvt.ihce,ykliiq.bjscq,xhjlajjvqb.mitmdbc,chdyr.sfzmqh,oit.ebgqehtqy,lqnynj.rqxapfpn,bwlscz.nwrzudbn,k.yniqxs,tzxvsz.wvdxqyxdu,vsv.ri FROM f jxq,q qxywryytp,vc qiv,cnrox noj,dffygyjnu ihyfasngof,xunxypez cmrsu,ycsjiwjjw yro,llsdgqeyoo oshayauf,ug eav,fzap cpqaw,ma cxywumb WHERE (2270051951 = 1) AND (8 != 770) AND 229 >= 214

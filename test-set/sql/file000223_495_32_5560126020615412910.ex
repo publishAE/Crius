@@ -1,0 +1,1 @@
+SELECT shzsfcavq.xz,sz.wv,duwodei.netc,yqtinddt.wralps,pkinmccg.smxwdn,ufkziepwbc.fb,xni.wfsl FROM qoebkb kjdzyvhrld,imf xoza,iivrwveapn wxhckgkxa,himpa la,yioc zeoyeo,lxzn nlaav,joks vkygark,qljq lfdhhkthp,jyqkziza v,yrubfr i,r bwnbpvrrd WHERE (383523 >= 085180591 AND (((051042233 != 53958) AND 89798 != 6232)))

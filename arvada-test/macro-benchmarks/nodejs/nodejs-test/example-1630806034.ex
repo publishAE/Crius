@@ -1,0 +1,1 @@
+throw (delete ((undefined).o_0))

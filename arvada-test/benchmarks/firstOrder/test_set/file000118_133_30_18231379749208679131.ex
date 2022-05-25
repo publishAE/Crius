@@ -1,0 +1,1 @@
+(exists F_T.!exists P4_0.sYz    &!(forall ERX7Q3.p  &x7_ )  ) 

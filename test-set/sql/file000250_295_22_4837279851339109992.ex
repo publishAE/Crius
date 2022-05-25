@@ -1,0 +1,1 @@
+SELECT hoirmu.wxci,udlohzw.rm,qruspuuu.v,prhz.mjzm,d.ylpnkps,hgnk.zoq,szdhlyfjz.nrdoigjjm,jhzjs.a,fziexs.zhharpg,xv.zmdtb FROM nrahudbi diynliiris WHERE (13 != 2727 AND pjclzmos.ser != 92)

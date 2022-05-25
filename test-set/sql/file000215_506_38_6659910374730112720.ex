@@ -1,0 +1,1 @@
+SELECT e.lafdwl,joohhsojci.vxqnl,pulqxyepvm.njt,dfpbycpt.oxg,oflmxsqrd.kwrrvmabj FROM vdqctqlxki fbcehnzc,omveazwai gwxjsavx,utwm sab,elgdj jds,u jtfkpxo,czbsvfh nj,dqzu w,nrzahdg whu WHERE (269794038 > 92) AND (618760821 != 3529551773) AND (818033547 != 5685569) AND 267 != 0970737485 AND (2338171109 != 370034815) AND 57 != 7908012

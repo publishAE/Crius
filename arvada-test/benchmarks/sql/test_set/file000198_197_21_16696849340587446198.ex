@@ -1,0 +1,1 @@
+SELECT eg.fj,ofjtq.ryw,osceese.rfipcxr FROM ivne rscvdj,vbgojura jpbjdav,l ofbrypx WHERE (5919627 = 92392941) AND (51798 <= 135)

@@ -1,0 +1,1 @@
+throw (! (function(w_0, w_0, x_1, x_1){ ;(new ((x_1) ? (null) : ("s"))((x_1),(new (this)((y_2),("X@")))));var f_3;(w_0) }))

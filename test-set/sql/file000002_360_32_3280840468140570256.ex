@@ -1,0 +1,1 @@
+SELECT ztivjxcnfk.wem,xbra.nhdcepo,evz.tjdirjhw,pvrygl.cuetx,z.ob,hil.mekmo,mhy.uqomit,mkekw.qf FROM td wh,qyy opaiqnnz,skq tfexdbv,qeiyf l,nheph puxzla WHERE (78812 != 1) AND (((393 != 108) AND (61 != 579805937)))

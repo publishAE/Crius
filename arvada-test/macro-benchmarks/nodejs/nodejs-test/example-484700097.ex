@@ -1,0 +1,1 @@
+throw (new (h_0))

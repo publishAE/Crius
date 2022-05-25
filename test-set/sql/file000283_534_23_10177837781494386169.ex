@@ -1,0 +1,1 @@
+SELECT yruitj.wbrdoxav,rdflvkm.wewxhffedy,kgdxg.rjfpdpdd,duxl.qgnhijvqsg,etlqiqtg.cvfvcnivc,piczzjphqt.zxorxm,hwtfpxbvzt.gcsqkfes,yuid.bugpcqbx,jhyki.u FROM ulevpk ybwg,d pnsqim,qfyns qtlod,rdld wsnrotuda,gyaeylt sgiacvk,id rhk,phsohd enqkxpb,nyxtvv jykmskbt,vvnvgxox rkotpc,lbthg uerhdgvye WHERE (18966 > 351918) AND 507 != 2222806 AND 97641 > 113468439

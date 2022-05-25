@@ -1,0 +1,1 @@
+SELECT fqgkn.pfwzxo,wdijtv.cpxacdck,vipa.iihcwc,udjpqmpqd.jpumcbiq,gf.b,ghascizr.dqillgagm,cljlo.sjseyqflbh FROM fmwhyhsya tyma,wc ztgqqmguu,osjexhg zdmox WHERE 1863240849 = ksug.abeqcsqfh AND (343989802 != 150) AND (30 != 5214171) AND ((068277582 != 4665) AND 001172701 != 71761722)

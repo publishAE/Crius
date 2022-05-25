@@ -1,0 +1,1 @@
+forall D28Sr.!((o_6 &x ) &!e  )   

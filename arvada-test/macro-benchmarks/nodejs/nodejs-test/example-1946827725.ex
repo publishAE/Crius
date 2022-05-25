@@ -1,0 +1,1 @@
+throw (delete ({e_0: ({w_1: (new (e_2))})}))

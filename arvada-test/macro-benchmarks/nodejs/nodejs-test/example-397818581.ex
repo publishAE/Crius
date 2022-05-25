@@ -1,0 +1,1 @@
+throw (delete (~ ((x_0).x_0)))

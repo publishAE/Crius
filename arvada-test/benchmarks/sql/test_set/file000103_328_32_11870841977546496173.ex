@@ -1,0 +1,1 @@
+SELECT utl.lj,vtuycdkwig.cuknmsnsx,wyc.bg,jht.zhmsglq,xcsbcorml.ocyity,qmqzvkrw.tumikmx,hrfbfkncx.wy,vnhspxiez.j,dghej.ym FROM xorvf jp WHERE ((701441 != 66) AND (((09586426 != 8637989) AND 18 != 3960169)))

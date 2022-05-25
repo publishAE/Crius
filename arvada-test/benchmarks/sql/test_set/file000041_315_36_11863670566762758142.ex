@@ -1,0 +1,1 @@
+SELECT ttksm.mwnjjiqigj,ejxey.q,spriklgvl.ibs,x.ryyg,ihkkxwtn.x FROM icosiwn m,eaorclqxst nbdvvul WHERE (93910565 > 2005497 AND (32 != 11805762) AND 8275526822 != 08739 AND (37102 != 8) AND 34222096 != 7)

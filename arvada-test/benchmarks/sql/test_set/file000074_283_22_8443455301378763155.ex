@@ -1,0 +1,1 @@
+SELECT haq.lhoua,qzjwmrk.r,ixiflz.ofokidpuox,rmdycvb.zx,rgw.qdqio,y.pl,xvou.tnquwwdr,totykwvo.ogftenv,tkdcoucxn.pdtmze FROM gkgrm sx WHERE ((707 != 6417) AND 1 != dnwxwtc.ghqwiezf)

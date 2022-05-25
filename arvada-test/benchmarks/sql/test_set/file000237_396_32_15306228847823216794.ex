@@ -1,0 +1,1 @@
+SELECT bzrrpnctn.rnrgde,miydfok.snvqlbaa,ktykczxumn.w,vjl.xfbq,xnrn.uzcok,zbmgc.lgs,swtyoftn.gsjae FROM zfxt f,jzjmm wswcdzac,avpfmc evcqftj,kfbytt jwnrne,guqnt xg WHERE d.vadoyided <= cmpgkhre.mbkkdgty AND (86220 != 5199380724) AND (((723 != 4788231114)))

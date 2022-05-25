@@ -1,0 +1,1 @@
+SELECT c.xbzoflz,shlr.yacsnd,zfddoed.xdccqun,bwot.ieeparayg FROM nsirzjao vkjjyxmgqv,sjhuszcpdp mabzwhik,dhxfzvsc guwhsdy,wtgdx zsgkvzd,uajnyx wf,ggjgnebz kzoo,cjelqib xcnm,yaewfz rps WHERE (12710 <> 4697730 AND (((459 != 906))))

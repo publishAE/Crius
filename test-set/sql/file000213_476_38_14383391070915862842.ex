@@ -1,0 +1,1 @@
+SELECT zxkdm.ftvhyuelen,cyji.ruj,vagexey.xzbojdh,iglicaoi.fjcpfzlgur FROM yaifvmjx wnqhdw,ytvx k,shdnim zs,ixfpl fusb,uwmgcfty nwnfnm,ivnbw yhwhyq,osajkuvrul waeaf,ti ftsxltzke,kgaezjpffh bii WHERE 874657799 != re.vojnypaf AND 897 != 678 AND 894792 != 672841 AND 11667810 != 0285 AND 2729917 != 52089273 AND 8763 != 8

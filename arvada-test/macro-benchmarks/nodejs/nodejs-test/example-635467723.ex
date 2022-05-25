@@ -1,0 +1,1 @@
+((o_0) instanceof (o_0))

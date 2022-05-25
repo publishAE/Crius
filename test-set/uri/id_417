@@ -1,0 +1,1 @@
+ function  rtz (){ while ( $ ) if ( $ ) return ; else  if ( $ ) return  $ ; else  return ;}

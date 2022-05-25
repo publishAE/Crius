@@ -1,0 +1,1 @@
+SELECT yodira.s,mgrjqfkmii.a,gx.sw,lrhuuhzs.ixjo,gm.krk,bjqemykquq.apghhil,xrbldmb.mvzpv,iqjncpmi.asuugqs,dgmhje.klweyu,rpxysouup.dzjmxaxlgk FROM dvtpmstr uu,acldhwnpr lgeclnjvrc,fmj cgcvbdsgqs,zarpa wuhnnorchj,z dtpt,ojtogdagq hybefoj,cgfif gbqnwk,rts js,vynfubdbwv kqj,gnrwexo nlpqcfale,veuaeskleq otk WHERE ((817 != 8) AND (9 != 4008390923 AND (8659460131 != 753850)))

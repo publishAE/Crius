@@ -1,0 +1,1 @@
+SELECT snwbcuybb.ju,jgei.twlyw,rtodq.mzeb,z.r,pa.ygekoht,p.vzwiwkrv,kkz.fjkxwskld,drb.xqijull,of.gdixkrj FROM reueqrwdqz y,zzpjbli bcphzl,wrt ywifzguths,chhmjhekx euvazdiz,s je,zjwur k,zjfc hjqzo,sgi kfjyenqpg,lquwdsobmt wgbitg WHERE rouomvfoo.uaxdclzp > 0 AND j.mhtrpmtd != 951932259

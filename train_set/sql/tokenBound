@@ -1,0 +1,12 @@
+16 2 AN80 L308 0 255 0 255 0 255 0 255 0 255
+5 1 SELECT 83 83 69 69 76 76 69 69 67 67 84 84 
+6 16 FROM FRom FRoM frOM FrOm frOm FrOM froM from fRoM fROM fROm FroM fRom FROm From 70 102 82 114 79 111 77 109
+7 32 WHERE wHERe wheRE wHErE WhERE wHeRe where WhEre Where wHere whEre WHeRe WHere WheRE whERE WHEre WHERe WhERe wHEre WHeRE wHeRE WhErE wHerE wherE WHerE WherE whErE wheRe WheRe whERe wHERE WHErE 87 119 72 104 69 101 82 114 69 101
+8 8 AND aNd aND anD AnD ANd And and 65 97 78 110 68 100
+9 1 ( 40 40 
+10 1 ) 41 41 
+11 1 . 0 255 
+12 1 , 44 44 
+13 1 " 34 34 
+14 6 <> <= != >= > = 33 62 0 255 
+15 2 79 818 0 255 0 255 0 255 0 255

@@ -1,0 +1,1 @@
+throw (new ((w_0) !== (~ ((undefined)[(427)]))))

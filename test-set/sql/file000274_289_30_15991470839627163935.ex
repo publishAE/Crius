@@ -1,0 +1,1 @@
+SELECT lfrhs.vqvbwhijy,aqcx.onwnei,lzax.ttjmpvzyi,mune.lhxebsa,do.zecnuakoo FROM ii fcitpcdoi,jfrsrhqbn efwhyw,mjhbfydtv xqzphtqxvj WHERE (((((6688899 != 7449059222) AND 22745 != 7353899879))))

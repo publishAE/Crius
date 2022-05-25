@@ -1,0 +1,1 @@
+throw (delete ((v_0)[([(undefined)])]))

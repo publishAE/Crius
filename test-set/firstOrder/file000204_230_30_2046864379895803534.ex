@@ -1,0 +1,1 @@
+(forall Ka30.(u(I_,D) |exists X_U4gP_fI7.a  )  &(forall F.e66AcIMe2_  ->(m____QG |j5f7_aG9c2_ ) ) ) 

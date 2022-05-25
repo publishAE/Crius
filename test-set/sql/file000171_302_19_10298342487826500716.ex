@@ -1,0 +1,1 @@
+SELECT oa.ddnik,ybuzz.gl,na.ijge,l.dspw,jk.bh,tcgdusearg.zmuhtfj,kpwofe.vzvbzmvppd,ym.b,nghrxz.vtnzyfaita,vnbhv.k,pv.bfzqy FROM rx qsuomfjd WHERE (639373 != 143814) AND "dvlaqsq" != 7625884

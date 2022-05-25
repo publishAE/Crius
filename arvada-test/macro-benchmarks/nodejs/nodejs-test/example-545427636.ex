@@ -1,0 +1,1 @@
+throw (typeof (delete (f_0)))

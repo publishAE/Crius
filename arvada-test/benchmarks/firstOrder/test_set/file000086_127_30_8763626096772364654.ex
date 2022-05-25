@@ -1,0 +1,1 @@
+!(forall RG______p1_.!s9_   |forall Iq_i.exists IAg_b8_3.f   )  

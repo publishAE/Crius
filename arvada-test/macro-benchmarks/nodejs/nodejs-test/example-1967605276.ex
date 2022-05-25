@@ -1,0 +1,1 @@
+throw (new (function(q_0){ var y_1;var y_1 }))

@@ -1,0 +1,1 @@
+throw (~ (((undefined)(((f_0) >>> (null)),("cp"),("kTK"))) != (f_0)))

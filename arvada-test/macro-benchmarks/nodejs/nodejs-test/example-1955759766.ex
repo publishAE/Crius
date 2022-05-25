@@ -1,0 +1,1 @@
+throw (delete ({e_0: (! (e_0))}))

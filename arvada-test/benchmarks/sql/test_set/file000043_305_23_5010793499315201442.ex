@@ -1,0 +1,1 @@
+SELECT jj.fnswbhzzgu,p.yacacsnnzt FROM kxqk knfisovcew,zatcwkl akkalr,ajvmdnb lb,fgxsxxadot bsbakryt,j zsd,qe wiqvpaf,xpqeqqpa xrrbifiv WHERE td.e <= "gwkjgavi" AND 48572398 != 8660166989 AND 22421 != 012933

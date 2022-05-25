@@ -1,0 +1,1 @@
+(((forall N6hd__D__.i__mb_B__9  ->forall Y3_.j  ) &!forall Sc_.w   ) |(o_X_ ->s_4____0Q(W__6xk,LF__L2_A6,h,a,o,QT) ) ) 

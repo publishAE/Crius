@@ -1,0 +1,1 @@
+((forall F_n59P.s(H_zm39FB___)  |!forall CT.k   ) &!(!t  |a )  ) 

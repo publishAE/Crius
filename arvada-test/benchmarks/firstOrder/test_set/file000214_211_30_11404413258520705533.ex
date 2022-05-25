@@ -1,0 +1,1 @@
+((exists Z__.(l5xjol &d )  ->forall C.n5wd  ) |exists Z3_2f_aG_4.(forall N___B_5.z  |y_K__X__ )  ) 

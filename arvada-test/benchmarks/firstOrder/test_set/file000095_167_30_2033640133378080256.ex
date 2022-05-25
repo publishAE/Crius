@@ -1,0 +1,1 @@
+((exists R5c.!gBX_w_3a3   |!g_T_5685__  ) ->forall S.(forall N.u  ->eq )  ) 

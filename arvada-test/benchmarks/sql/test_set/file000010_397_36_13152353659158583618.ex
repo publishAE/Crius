@@ -1,0 +1,1 @@
+SELECT guzrno.t,fxrwwt.koj,biekmp.dqq,xlmc.zwut FROM han ziv,lsu jrmku,i itamqeu,mlvqruwvvk rqxwcggsxh,zoy kqlspjj,iwtghuep fyuzr WHERE (61500 >= 31935835) AND ((9697 != 8464337106) AND (978567918 != 4511656) AND (1155781749 != 1281) AND 240443164 != 542)

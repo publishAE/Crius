@@ -1,0 +1,1 @@
+throw ((null).b_0)

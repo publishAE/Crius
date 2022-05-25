@@ -1,0 +1,1 @@
+SELECT bnpr.eq,az.rjvf,pcvklox.e,wicw.gtg,uroqawbw.pw FROM yya tfljvq,ewsqsjn hs,ksenz hg,hynqft arioomv WHERE omym.uhwrhv >= 21 AND (2581186 != 133492) AND 55858 != 1 AND (7232510 != 76006) AND (49269 != 433919) AND 223 != 060426145

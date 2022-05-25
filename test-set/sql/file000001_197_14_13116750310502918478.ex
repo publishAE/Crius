@@ -1,0 +1,1 @@
+SELECT wlowhckjo.svzjqx,vqatlmo.kqiqe FROM s vojkqcqdlh,esswqicct w,ijrvw t,tucrdmin vsukhurrj,cgblisx wxmmtcdo WHERE jog.zg < 52270382

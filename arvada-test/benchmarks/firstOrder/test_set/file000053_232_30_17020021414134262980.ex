@@ -1,0 +1,1 @@
+(!(exists M_oJ__HdE.j_WD  &exists W77_3_gaQ.e  )  &(exists R_oT.forall LEV_Nw3wA2X.c   |(tkBL23EC ->r ) ) ) 

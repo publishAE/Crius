@@ -1,0 +1,1 @@
+SELECT vfi.iewpxqxj,ycuapyqhxm.pybuuydgl,hcbbmgnirq.g,lvlbjkmzey.tdvmiipasy,m.ksb,ursptzn.f,nqwcuzcl.ywy,amlumx.kw,rpm.zsymqm,fd.thcstvl FROM d zx,h ynwqqd,wgxbdubnj qzplb WHERE kwu.xwy = "otrka" AND 2802 != 723626012 AND "tsjzpuz" != 532

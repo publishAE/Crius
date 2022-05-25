@@ -1,0 +1,1 @@
+SELECT jyxahhnd.xv,hdtzouew.kj,wqwhpc.jhxoffy,no.wkr,dmp.gpuufaw,dhjhvzdefn.nnv,zpufbomkwn.obnihc,wxf.cesd FROM f gb,xxgipg ex,wl mpzdmppocj,sekwdkzuaw z,fdsybnuth aojaltbgv,rdj natrlcno,uzotglwn kpuyj,ieukocbha qxjquq,yikmxzt sqkqytvci WHERE (252702 <= 8021548) AND (11231806 != 14681940) AND 54825 != 6749687 AND (29022027 != 61) AND (6945076 != 39199) AND 188388933 != 92161092

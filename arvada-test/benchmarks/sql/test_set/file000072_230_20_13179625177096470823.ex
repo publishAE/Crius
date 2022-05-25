@@ -1,0 +1,1 @@
+SELECT fmtwy.irgr,x.pklbuaj,ouwdlvdyrq.otpzr,sorzilh.d FROM kga hqoim,nkgq yn,kmrucdjqhn oyxfvtxv,goqs dpvnagxhaa,tytthxmjk cdyrsfck WHERE "uxhdlbqj" >= 38

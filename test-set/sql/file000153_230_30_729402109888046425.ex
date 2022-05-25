@@ -1,0 +1,1 @@
+SELECT cvkkrwwyz.pkkht,gwxao.ddcj,hs.q,i.gjxzx,hxwiwzczj.etliok FROM w rsswr,cazwilh vql WHERE ((((0637567 != 35654 AND 42275943 != 4062216036))))

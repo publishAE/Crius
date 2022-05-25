@@ -1,0 +1,1 @@
+SELECT sntsgafhyy.y,dsrebs.miqlexo,bsdrhdkwsn.oknybjzv,wbm.jlumxfwpe FROM izttgrwoar tqxlttb,ivytxb itxz,bzbfxj pqovmdbz,azbwu cgwvjyn,gbiodidy hcgdee,qejdnxjdza vslxhifj WHERE ((21 != 9213) AND 6 >= 9494080654)

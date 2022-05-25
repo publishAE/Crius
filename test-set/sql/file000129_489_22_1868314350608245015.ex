@@ -1,0 +1,1 @@
+SELECT vblaij.gywwef,uunsavehao.thnny,gdakcw.clfhriqu,znxhxsuu.aqqhjnw,lnretclpzv.joufyhahsw,i.btmsp,jmasa.dqsru,vkryqijw.rgdv,vdrbpkuhz.c FROM f tgjbmwmy,kilg ta,iqkmr lcxw,dg twaojnia,renqf gfuzgdnq,xcuxko ykfkeurwmj,sg xo,rosgqm tfho,b lqenfobwct,neqxjcyggf owjwxto WHERE ((41122 != 807864) AND "qsnbw" != 990468)

@@ -1,0 +1,1 @@
+SELECT owwjnnqrw.jseb,xeznx.fcu,mmajedwkag.rgfodxf,bthepb.qrb,xx.umzftk,kukgkjuafb.t,ftagkokl.tyaos,xcjmbi.wm,siuqgukv.ogqmaweay FROM rfxtoqnsw hehrh WHERE "rkslfjaavk" <> oga.ur AND (683 != 963475517) AND (997386 != 79618) AND (49 != 6634502545) AND (38 != 1563336)

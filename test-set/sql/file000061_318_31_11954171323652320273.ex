@@ -1,0 +1,1 @@
+SELECT k.cbn,kdijzkbt.ftmtcxad,wn.mh FROM mvoslwpcw tyttvu,w ntovkaie,zlkxte vleseao,oybg s,titibgccv vdd WHERE ((869929091 != 8776479) AND (80437145 != 0) AND (149038048 != 1891378) AND 10021 != 407728835)

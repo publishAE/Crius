@@ -1,0 +1,1 @@
+SELECT xzqkopzek.kfckbk,i.pwpktrc,sfyk.v,jfnw.acojro,fshvdzpnh.qwxyrmz,pkv.aqsrbjg FROM svg dhimv,ubauwnuv xy,kcqs yubim,lqdckdagjb rhlezq,ecbdqb ginj,yszxmygll hdvgahmdo,ttdvci rn,tvbvi pbalie WHERE (62032 >= 7492) AND 171 != 00609010 AND 11 != 2793834682 AND (6296393 != 972) AND (6864606848 != 6)

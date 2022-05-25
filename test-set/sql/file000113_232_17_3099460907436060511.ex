@@ -1,0 +1,1 @@
+SELECT ooetcf.w,tfwg.aciebijy,tyhso.bcmk,hzzqo.wbryvkxbv,zroxhqtl.z,dqt.facnlbzbja,kgm.isqyfi,i.nqtivwwb FROM rbdii vzmrrwjxmv WHERE (828 < dwdmg.evx)

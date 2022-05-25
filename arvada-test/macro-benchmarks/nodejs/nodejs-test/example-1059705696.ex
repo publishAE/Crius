@@ -1,0 +1,1 @@
+throw (typeof ([(new (! (this))), (q_0), (q_0), ({y_1: (y_2)})]))

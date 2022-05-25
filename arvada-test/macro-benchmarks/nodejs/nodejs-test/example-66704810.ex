@@ -1,0 +1,1 @@
+throw (! ({j_0: (typeof (null))}))

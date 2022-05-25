@@ -1,0 +1,1 @@
+throw ((((undefined).k_0)[(a_1)])[(~ (typeof (k_0)))])

@@ -1,0 +1,1 @@
+SELECT f.cajkp,dom.xbsju FROM nwlghvccin xtacnaxv,zrqib kqpmfh,tkfsbxvg gczuxos,abttzowo kjmnrhym,ognbxj vmmemtfpe,rn i,vteruxksb mfxuie,reiahk alorcs,rgmdfw rwoeq,xuoeimvpi cygkekr WHERE ((8 != 15998346) AND ((7580755 != 344658944) AND (38387354 != 61351) AND 8780771 != 4))

@@ -1,0 +1,1 @@
+throw ((new (h_0)((delete ({q_1: (this), x_2: (d_3), d_3: (this)})))).u_4)

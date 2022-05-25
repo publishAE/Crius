@@ -1,0 +1,1 @@
+SELECT fwyaaleb.nxvvpmyf,bfmo.bvgw,lhquis.koul,xonisp.uzcg,csxp.hwcwrxft,uotjqymob.mzyontom,jpbxq.atcoz,jpxpuv.qzbs,qaogpxji.qtujwtaxp,vjnqarp.phtgdgoyon FROM txccamin yhntpqrk,zuqlyyq na,yxkvaw pavd,krysr zvjm,mn uophuelm WHERE 0902 <> fcvtsvoad.bvwagr AND (4700 != 796) AND hvyz.ckregjoz != 536

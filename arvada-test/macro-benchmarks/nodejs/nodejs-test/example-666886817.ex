@@ -1,0 +1,1 @@
+throw (++ ((g_0)[([((undefined).o_1)])]))

@@ -1,0 +1,1 @@
+((((u_nSw &e ) ->forall CeIjaI.z  ) |!exists OFCa.c   ) |(!forall N_77_.k   |forall Be4_0Dw8_2_.hR_vYl_w  ) ) 

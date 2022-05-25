@@ -1,0 +1,1 @@
+SELECT tqfdc.etrpuz,krsgkakxpi.rrjc,pbrqgas.hbmaupx,t.fyf,konpzjo.guwpgyrrvr FROM xweafofah gcg,jzzfeob uqgd,mvahjtusi e WHERE (112357 < 09) AND (00 != 957) AND 1070 != 62064016 AND ((74485 != 034) AND 0135674125 != 147)

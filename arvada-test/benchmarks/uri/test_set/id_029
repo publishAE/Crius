@@ -1,0 +1,1 @@
+ function  __ (){ if ( $ ) return ; else  while ( $ ) if ( $ ) return ; else  return ;}

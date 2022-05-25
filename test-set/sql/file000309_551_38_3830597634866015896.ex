@@ -1,0 +1,1 @@
+SELECT rkc.nsa,bdgsuvae.dnfozqqqkn,diqtptcwo.xlqx,y.xgqw,eisxt.zd,p.rrk,gobty.rwcmlyi FROM vtmrikgak rjvohse,mecuin wwxfeqznl,ka leqrib,yaqvqjlyc jnmpeyj,ok wmnj,hczwq qe,xtfuughg fqasxsiaq,mjgyucfyt kdpalayoc,agpxdtmzf rabnykna,ftcma gqz WHERE (45701522 != 6) AND 83 != 01725901 AND 181207 != 9977 AND 68 != 6287 AND (40 != 6488803885) AND 029214 != 4668

@@ -1,0 +1,1 @@
+SELECT ogm.ghmtfpb,gik.fgoffvoy,zrhrwg.vesisuxuz,xjj.qdx,jl.hz,bts.drnjlx,qwjrcyy.panrgnx,spzxekcfqu.p,jaxr.mc,hjtdom.datphkdr FROM aoppeh h,yoaa qfz,v ybskweym WHERE ((82 != 9) AND 14 != 6805300 AND (89 != 88701765 AND 747 != 0438))

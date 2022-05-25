@@ -1,0 +1,1 @@
+SELECT ox.ele,teoty.jenu,pcks.juwtrtr FROM bksjbhgrr fhggwynubn,nl niv WHERE "jvrtvitey" >= "jnh" AND "fckisnw" != 21

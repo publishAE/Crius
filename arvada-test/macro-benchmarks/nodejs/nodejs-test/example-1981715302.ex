@@ -1,0 +1,1 @@
+throw (typeof ({e_0: (typeof (this))}))

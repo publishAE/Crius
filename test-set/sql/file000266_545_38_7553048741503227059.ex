@@ -1,0 +1,1 @@
+SELECT jdshaad.ntadmwotgf,mxmdhrppn.hxkrruem,kjrzyae.lgcsfpiy,lsde.o,vp.ewwwdo,pjh.tug,c.xemx,ewkdp.edaakm,hcyeggp.zoe,zfnviftga.pz FROM qygnqmuwin cxafqnqjm,gxsepyj uuaehbc,a mvomalzaw,thyhb bttqet,bmsvlfrnt whdagy,ahop so WHERE fmcl.pjlqaaixoh < 690 AND (78270894 != 4743608176) AND (632 != 155745) AND 415 != 366 AND 87 != 86840646 AND 0038768 != 303

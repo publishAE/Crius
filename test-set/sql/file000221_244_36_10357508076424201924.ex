@@ -1,0 +1,1 @@
+SELECT atqolmy.e,wh.oyrfukcw FROM wr p,apwqp fxovuln WHERE (4753312 = 178) AND 525954 != 0620 AND ((484647 != 6687481) AND 2 != 8869315295 AND 246 != 821700)

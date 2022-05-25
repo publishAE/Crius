@@ -1,0 +1,1 @@
+SELECT ucwsjnsr.rpqlyjpi,vmbz.er,yjosnef.amurq,bunefc.bbjftni,ebtiqlfot.uv,xmlqqsytzs.m,qxz.dcofbpwqc,dxn.zbz,nuvx.w,f.x,phufdowf.u FROM bgx gwm,zd t,g iztveqsvan,bnsnfo ga,a hejdbwmqdv,qzrrubu wiq,v po,qmxfqh eiy,uelzp h,wsveoghi zp,skjde lihdeyfet WHERE (4072737 >= 3818077 AND 5528 != "fddqxp")

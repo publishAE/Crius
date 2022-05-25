@@ -1,0 +1,1 @@
+throw (((((120) != (null)) != ((-10) >= (undefined))) , (this)) != (this))

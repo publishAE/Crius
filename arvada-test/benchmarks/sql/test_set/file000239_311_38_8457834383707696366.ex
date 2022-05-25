@@ -1,0 +1,1 @@
+SELECT ckno.cniyktgyw FROM got zkpr,tx midhld,wdgdbc frakvlvwio,dcqeijfdj by WHERE (97257 >= 9) AND (3921266 != 24498) AND 8549629841 != 2281203680 AND 8 != 91240549 AND 72 != 426976757 AND 1368369786 != 2190968

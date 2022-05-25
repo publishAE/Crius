@@ -1,0 +1,1 @@
+SELECT mwfzct.afymrhuqbr,qsc.mpy,ieqdyjrrpz.qkbggtcrxs,mlznxdtxg.glix,lp.lqlijvwg,wuymljphg.hfu,v.wrinxtzgba,dgrc.pkfbepus,jhztkglq.noxeqohg FROM jrmwyztd icupnju,nwcgkgqmc qnlrbkvtn,lpjkvfoha bymrvxfywj,fvflvki rh,wivovm naolnhksk,rdgvty b,yu lvftvw,lo duk,vafwcfyoi dhrd,vlp ugclt WHERE 1004122 <= dldoi.emvnq AND (89 != 668) AND 3345680 >= 759152

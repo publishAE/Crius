@@ -1,0 +1,1 @@
+(forall SN.(!eQUI8_3Ez8  |exists R.l  )  &!exists Z4cfjC4a.forall NAkXL2.k    ) 

@@ -1,0 +1,1 @@
+for(;;((! (this)) ? (a_0) : (function(a_0){ return }))){ continue }

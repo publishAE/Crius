@@ -1,0 +1,1 @@
+while ((k_0)){ ;while ((function(k_0){ (k_0);throw (k_0);var k_0;return })){ (new (typeof (k_0)));continue } }

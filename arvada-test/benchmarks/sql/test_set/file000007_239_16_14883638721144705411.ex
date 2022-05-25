@@ -1,0 +1,1 @@
+SELECT osuil.id,ivfpdik.ouiddvdfj,uu.zyxipwdohp FROM cyrfnw igyj,dzsrc cusaloc,fqwnzqqui pwkllhy,swehuxy h,npcpjfih q,wtcdbavb wykn WHERE "ersdsc" = lmr.yddvyym

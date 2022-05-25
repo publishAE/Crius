@@ -1,0 +1,1 @@
+SELECT rmmdvvg.spdmuhnlbp,ignuxpurr.ghlzz,k.q,qre.kuwcq,ycaghex.h,bs.pzw,n.pghkv FROM ta fi,owfcy v,dxcxcgd cgwjhte,ehznryuxs fchxwknoti,ywyhd jgfluhj WHERE "yg" >= 5299 AND (817 != "ywgarqwae")

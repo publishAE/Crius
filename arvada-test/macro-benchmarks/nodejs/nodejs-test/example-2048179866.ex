@@ -1,0 +1,1 @@
+throw ((((j_0) && (new (j_0)((this)))).q_1) = (++ (undefined)))

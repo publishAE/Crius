@@ -1,0 +1,1 @@
+SELECT de.ssfnzdfo,druglm.pdsmy,jw.wtdu,b.ir,vheercceaf.ml,nui.uumc,jnd.qfrohhm,pmfiibz.wwtskd,im.gfaovjla,ktmeuxydi.lxkg FROM m pfwuwm,fkzfdrbr l,ezy zsgp,fhrvabnyw xnfpwuyvp,nuow dchhkegme,rsv tyenem,ixvbpip nmpirls WHERE (9091417 >= 2) AND (5601 != 1077246) AND 4310835145 != 919822 AND ((6451148750 != 315317671))

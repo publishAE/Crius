@@ -1,0 +1,1 @@
+SELECT zh.bpyl,g.ehcrqx FROM yhwij rwsyf,wdxvzvbxxn taq,srsqf ybynpntxf,iyzmwglqw omiwvmb,wkcdvfew glvkfxto,todcpdmhkx pevigrrdh,eye qawsjyv,lfig chkczo,frsytr ehafpxm,kyd bmwecw WHERE (72 <> 80) AND (1838113233 != 113) AND 4 != 293 AND 0846578304 != 58 AND (0194714991 != 2855740) AND 18336673 != 6

@@ -1,0 +1,1 @@
+throw (typeof (y_0))

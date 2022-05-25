@@ -1,0 +1,1 @@
+!(forall Hy.!e_Q   &forall D.exists C1v_.t   )  

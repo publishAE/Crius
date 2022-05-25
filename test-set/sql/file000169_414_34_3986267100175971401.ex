@@ -1,0 +1,1 @@
+SELECT qsnfpw.oqmplghobq,wdgsokgho.isgeeahns,hfyxc.nh,appi.ik,mkcmoltfh.bsn,urscr.wrm,mphtjuxbyj.ouzlcnpsp,e.gqm,bvkkdgsexk.gehetcnfot,sneyiio.ldsgdsf FROM b kgc,nacvrxsu qodusf WHERE ((49654850 != 38567742 AND (6739926800 != 056342858) AND (493 != 37897) AND 31 != 50))

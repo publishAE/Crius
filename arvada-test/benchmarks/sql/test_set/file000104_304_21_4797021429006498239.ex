@@ -1,0 +1,1 @@
+SELECT qifov.ganzjhwbcb,fr.gwkjmgwt,vkom.gzlynh,gp.pnpwkumx,xgcpozxu.cxebn,vatgdgknzj.nhgycm,lpvmuhp.trpgby FROM rvsxoyyks ukzhh,yxbyyzrc y,zwxnucqny ctbech WHERE 0790083 >= t.oqzgpm AND (50 = 7298653191)

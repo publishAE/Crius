@@ -1,0 +1,1 @@
+SELECT bdmn.hkjmfy,j.zdewqlroa,sz.jdpiyqmx,vu.rpyf FROM jezidts bawqo,xvarkjdb gjjddl,zygelhw app,uihud lwgpsu,ubzc lnhxdvfr,zpwlmrsn la,kqnpjw larvu,asxmeglr xgbteiqeyr,cvzy khutcozba,oax glaynj,j pbefslk WHERE "nis" = 2 AND 4515192 != 74588942 AND (6 != 4586426694) AND 3794968 != 544191

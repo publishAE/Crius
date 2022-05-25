@@ -1,0 +1,1 @@
+SELECT kddujxgza.rzcundjgzm,ifyen.qwzbai,ubmibcbvl.aipztoee,ocq.va,rcqqaebs.hqnlsgror,fx.mtfiubh FROM egonnsnu h,ntdcou dbgcaejhu,xyuscqip thyzed,nmdowosnqi hsn WHERE (400 != 0096221) AND (2 != 6) AND 6 != 12 AND 80 != 7119 AND (0141 != 66132)

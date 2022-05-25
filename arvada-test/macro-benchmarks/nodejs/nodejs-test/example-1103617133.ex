@@ -1,0 +1,1 @@
+return (function(q_0, q_0, j_1){ var j_1 })

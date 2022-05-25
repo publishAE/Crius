@@ -1,0 +1,1 @@
+(forall T9fmZS4_w.((l |d ) |sx_oJ___G7Z )  ->!(kfp(B) ->dwOc_b912_g )  ) 

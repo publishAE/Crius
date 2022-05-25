@@ -1,0 +1,1 @@
+SELECT ub.snsflgsw,veaxnj.umxrjxbsva,b.jpc,cgicjq.czwryt,xsnwstc.cl FROM ubqmiinzrc qbhmcr,mhq vexqq,lxltxig vq,jskhb tmrqfvhh WHERE (799450434 >= 6628211) AND (8856430 != 6689504 AND (387722 != 93850863) AND 78642 != 061782 AND 9011 != 5)

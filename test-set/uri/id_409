@@ -1,0 +1,1 @@
+ function  $R (){ if ( $ ) return ; else  while ( $ ) if ( $ ){} else  $ ;}

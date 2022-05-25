@@ -1,0 +1,1 @@
+(forall G8__50.forall I2O.(zqF_SU &o )   |(!!t   |!l12  ) ) 

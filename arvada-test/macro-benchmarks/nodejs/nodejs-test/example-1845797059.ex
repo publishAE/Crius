@@ -1,0 +1,1 @@
+throw (! ([(function(y_0){  })]))

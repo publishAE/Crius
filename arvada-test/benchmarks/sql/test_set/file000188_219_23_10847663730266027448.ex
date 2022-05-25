@@ -1,0 +1,1 @@
+SELECT apw.lovyf,gobzkq.fbypial,qmmxiksz.zmmmdeekgk,bnbouhsm.mkualgbjtc FROM j k WHERE ooafmjtx.kjxfeafge != 4922 AND 9918520 != 59265 AND 747269 > 42788

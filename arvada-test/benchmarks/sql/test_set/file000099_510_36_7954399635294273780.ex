@@ -1,0 +1,1 @@
+SELECT qoe.pd,opy.tcl,xrhthdxdma.hiwypytcdc,qrcavwaw.icff,nbztezlc.pvfyx,axzumqjsd.nvtx,dirt.nbnnimbg,bgdpc.oxiwa,auf.wlolmk FROM twt bphqhxtnk,nbrbcsky wgmrq,lxvsj ysz,r ghc,bpwlbyg jtgeuk,cuyfahywnu ldgo,ddcsqpuot c WHERE (5264 >= 28808024) AND (82554 != 2) AND ((0314285 != 3028) AND 0243 != 432825 AND 89187 != 69667294)

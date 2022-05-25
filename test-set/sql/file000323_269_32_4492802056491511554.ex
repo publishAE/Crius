@@ -1,0 +1,1 @@
+SELECT mkurvd.b FROM kszty i,qgxac mjzqklcgz,qzdsdkzp dauchm,mpheni ucggqgvc,ou quhjat,rvnidtjmyj phluqgnac WHERE (68020382 = 7 AND ((701543 != 1910841 AND 97605559 != 8890431)))

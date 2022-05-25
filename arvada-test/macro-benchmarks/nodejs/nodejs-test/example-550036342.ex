@@ -1,0 +1,1 @@
+throw (delete ({s_0: ((s_0) >= ((this) > (null)))}))

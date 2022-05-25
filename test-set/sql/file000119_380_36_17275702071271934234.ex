@@ -1,0 +1,1 @@
+SELECT ftpqskerm.rqenve,inrgldjsk.ov,jk.vnydjkoidy FROM pi zzsut,semiuddq nyqqsenki,wpmbcb eegpjbapi,tvluq fmxcjoejab,likye atisy,ktnezeqikk qmrfnps WHERE ((1999 != 4) AND 2265321844 != 8877 AND (5 != 2806663506) AND (66617435 != 47) AND 1 != 870648)

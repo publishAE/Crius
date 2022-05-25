@@ -1,0 +1,1 @@
+throw (delete ({e_0: (typeof ((w_1) & (q_2)))}))

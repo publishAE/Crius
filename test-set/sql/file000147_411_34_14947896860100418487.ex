@@ -1,0 +1,1 @@
+SELECT xqtnn.xpkdok,mndwswc.uhufm,esbce.kkdueaspil,ase.al,qu.ynmivo,dktnmw.nw,xxgsx.nufvry,xnmtuvljh.yznifjb,rb.x,wafhyha.p,p.qvpwdqqvlk FROM dztjxfoul lapoyej,ppwx yczntmi WHERE (654164 >= 4637550) AND (56 != 10070) AND (595 != 4 AND (98389677 != 753929913))

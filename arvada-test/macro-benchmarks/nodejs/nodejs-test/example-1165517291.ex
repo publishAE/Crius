@@ -1,0 +1,1 @@
+throw (delete ({u_0: (new (("*q/f")[(t_1)]))}))

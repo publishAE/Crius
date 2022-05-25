@@ -1,0 +1,1 @@
+ function  Z (){ if ( $ ) return ; else  while ( $ ) while ( $ ){ return ;}}

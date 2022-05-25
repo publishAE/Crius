@@ -1,0 +1,1 @@
+SELECT oosc.frghuw,ketem.nbrguvn,xnmlawq.ael,tatdglp.jkfmb,uiqxeaztaj.mbpnnplln FROM tafogzvm dbiuvupn,igxznfc ei,vktgmn vvrqdckgi,azf t,ykihold bdlzz,mjokkckbgz yutzt,axiovd ucjfad WHERE (((795848850 != 41539) AND ((155055244 != 974994901) AND 5704521423 != 788480381)))

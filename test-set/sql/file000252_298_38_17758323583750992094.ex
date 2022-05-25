@@ -1,0 +1,1 @@
+SELECT zbnqyyeioj.ufsxoiows,eftatxq.htftll FROM lnjd kchc,nqpinwt yu WHERE (4222 = 6) AND 491183759 != 58910 AND (2 != 787) AND (86373644 != 20) AND (366773759 != 65452298) AND 4938788 != 328914270

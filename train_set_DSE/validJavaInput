@@ -1,0 +1,1 @@
+public abstract class Sample < T , E > extends Object implements SampleInter < T , E > { public Sample () { supeb ();} }

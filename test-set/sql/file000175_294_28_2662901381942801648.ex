@@ -1,0 +1,1 @@
+SELECT bhv.anyxo,rt.uzg,vpb.sg,ytdcqcnlof.uufon,ghwiwsehk.e,dta.rrnp FROM fcwmterdq ox,cdhjwbrni xx,rdtuxz ungmzhbywu,dtkrtu uzzxy,kcradhdos fdk,pfstcygmz ayv WHERE lcdmspvm.suksnycqx = 560890

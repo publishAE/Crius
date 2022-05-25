@@ -1,0 +1,1 @@
+SELECT flbwsx.jopqmz,hwxp.nkcgvu FROM uldfdpq uryhk,vbbnidqpsp yz,gz bfov,yat wwibx,swqj wwebwligxe,kspkitpm giuhylpk,zczbybnr gzhsmuni,eegrw aryelou,g icitbtthys,hrk noxi,dhopdbxb rk WHERE "hziynj" <= cyaayyuxp.ki AND ("pai" != 01736)

@@ -1,0 +1,1 @@
+SELECT wqtn.npkqhslqud,n.bsbt,ugoewjlcxr.hopxkuiv,bcjqahycow.pecxafnlsx,dxutjx.hvnl,zkokr.zqbwdxfu,ohzks.shftm,l.fkaizo FROM yrrckii dcjc,pzygg ghpknxx,t ytboq,aqzfpq g,fdubkbuhz ozyywsp WHERE "igdmp" >= 430170 AND 0451890830 != 88564 AND 93120326 <> 63

@@ -1,0 +1,1 @@
+forall N.forall U__.(forall R__.sJ  ->forall F0.s  )   

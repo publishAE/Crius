@@ -1,0 +1,1 @@
+SELECT iy.cjvele FROM rafqpfqxr ziiciji,e oudjc,ehufnixyz pbmjzcyxt,hwoajw necr,jbsac bk,mnbvjge udcswoi,kkfnlmfrs unybdtfyce,koh avjkwski,qsudpnhhsb wzdwldpce WHERE (5022937378 = 41) AND 53318958 != 87034548 AND ((01637 != 753) AND (6336 != 53400042) AND 7056 != 9)

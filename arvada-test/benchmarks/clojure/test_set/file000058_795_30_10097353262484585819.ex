@@ -1,0 +1,1 @@
+#^{{() () {} . . [] } {\space . false #{} () [] {} {} {} [] [] () #{} #{} \formfeed () } nil [[] #{} #{} #{} #{} #{} \space {} ] 'true  #(nil {} {} {} nil nil nil {} {} ) [{} {} {} #{} \newline {} ] [[] ] {() () nil #{} #{} {} . true } \backspace }^. {}   
