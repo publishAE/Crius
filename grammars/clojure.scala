@@ -1,6 +1,5 @@
 import de.cispa.se.tribble.dsl._
 
-//https://github.com/abcdw/javacc-clojure/blob/master/Clojure.jj
 Grammar(
 
   'start := 'forms,

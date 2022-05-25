@@ -12,13 +12,13 @@ else
 	MAX_PRO=10
 fi
 
-# # run crius and other glade based method
-# $PYTHON run_bench.py $MAX_PRO
-# # evaluation
-# $PYTHON run_recall.py $MAX_PRO
+# run crius and other glade based method
+$PYTHON run_bench.py $MAX_PRO
+# evaluation
+$PYTHON run_recall.py $MAX_PRO
 
 
 # run arvada
 cd arvada-test && ../$PYTHON run.py $MAX_PRO
 # evaluation
-cd arvada-test && ../$PYTHON run_recall.py $MAX_PRO
+../$PYTHON run_recall.py $MAX_PRO

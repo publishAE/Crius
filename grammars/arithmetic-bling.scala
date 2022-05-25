@@ -1,9 +1,5 @@
 import de.cispa.se.tribble.dsl._
 
-// WARNING : The source Grammar may be wrong !!!!!!!!
-// the source file is https://github.com/benjismith/bling   BlingParser.jj
-// but the number expression may defined error , in order to obey the author's code ,i don't fix this bug !
-
 Grammar(
 	'Start := 'Expression ,
   

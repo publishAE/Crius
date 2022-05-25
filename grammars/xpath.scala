@@ -1,7 +1,5 @@
 import de.cispa.se.tribble.dsl._
 
-// Notes: the xpath grammar is from https://github.com/zhegexiaohuozi/JsoupXpath Xpath.g4
-
 Grammar(
 	'START := 'expr ,
 	

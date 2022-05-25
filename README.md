@@ -46,7 +46,7 @@ $ ../pypy3.7-v7.3.3-linux64/bin/pypy3 run_recall.py 10
 
 ## Structure
 The following are the important files
-* `glade.jar`: the algorithm implementation and benchmark programs
+* `Crius.jar`: It contains the algorithm implementation and benchmark programs. 
 * `train_set`: the training set of examples which generated from token-level concolic execution
     * `tokenBound`: the character-level constraints of each token and the character-level seeds of each token
     * `tokenList`: the set of of token sequences
@@ -60,12 +60,12 @@ The following are the important files
 ## Running Crius
 You can run Crius via
 ```
-$ java -cp glade.jar TestBench BENCH_NAME 0 
+$ java -cp Crius.jar TestBench BENCH_NAME 0 
 ```
 The optional `BENCH_NAME` argument specifies which benchmark will be used. The last number 0 means we use Crius as our synthesis method. You can change it to 2, which means use Glade as synthesis method. We have nine benchmarks in our evaluation. You can pick `BENCH_NAME` from this list [`bling`, `chemnum`, `clojure`, `curta`, `firstOrder`, `uri`, `sixpath`, `jsonmwn`,`jsonParser`]. 
 For example, we can use Crius to sysnthesis jsonmwn's grammar via
 ```
-$ java -cp glade.jar TestBench jsonmwn 0 
+$ java -cp Crius.jar TestBench jsonmwn 0 
 ```
 this will store the learned grammar in `results/jsonmwn/final.lark`. You can also know the presicion and synthesis time from `results/jsonmwn/time&presicion`.
 

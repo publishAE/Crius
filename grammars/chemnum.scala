@@ -1,5 +1,4 @@
 import de.cispa.se.tribble.dsl._
-// https://github.com/javacc/javacc/blob/master/docs/grammars/ChemNumber.jj
 Grammar(
 
 
